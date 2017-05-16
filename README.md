@@ -1,7 +1,5 @@
 # Learn Umbraco 7
 
-[![Join the chat at https://gitter.im/mcob/LearnUmbraco7](https://badges.gitter.im/mcob/LearnUmbraco7.svg)](https://gitter.im/mcob/LearnUmbraco7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ![7377960988_7c087be22e_o.jpg](assets/7377960988_7c087be22e_o.jpg)
 >Photo by: Doug Robar
 
